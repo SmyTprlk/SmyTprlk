@@ -1,4 +1,4 @@
-![logo](https://github.com/HadeedH3ro/HadeedH3ro/blob/main/animated.gif)
+![logo](https://github.com/SmyTprlk/SmyTprlk/blob/main/StarWars.gif)
 <h1 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJ4MHdnemRuNXRleXM3bHpldGk3MmZjemE0bGN2bTh2ejNrbzc2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7LAN7BGYWQ0tzPCrg0/giphy.gif" width="70px"/>  Hi 👋, I'm Simay<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJ4MHdnemRuNXRleXM3bHpldGk3MmZjemE0bGN2bTh2ejNrbzc2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7LAN7BGYWQ0tzPCrg0/giphy.gif" width="70px" /></h1>
 
 # About me
