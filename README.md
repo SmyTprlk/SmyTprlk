@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour&size=30&duration=2000&pause=2000&color=CD7B5C&background=7A79FF00&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=80&lines=hello+world!;welcome+to+my+profile+%3AD)](https://git.io/typing-svg)
-
+![logo](https://github.com/HadeedH3ro/HadeedH3ro/blob/main/animated.gif)
+<h1 align="center"> <img src="https://www.codedex.io/_next/image?url=%2Fimages%2Frobot.gif&w=128&q=75" width="70px"/>  Hi 👋, I'm Muhammad Hadeed Khan<img src="https://media.tenor.com/8jAJQds1Kx0AAAAi/pikachu.gif" width="70px" /></h1>
+<h3 align="center">Crafting Seamless Experiences: The Art of Android Development</h3>
 
 # About me
 I'm a biomedical engineering student. I've learned the basics of Python, and will soon embark on the rite of passage through Data Structures and Algorithms.
