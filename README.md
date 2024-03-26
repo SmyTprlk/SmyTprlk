@@ -17,9 +17,6 @@ I'm a biomedical engineering student. I've learned the basics of Python, and wil
 
 # Let's Connect!
 <div style="text-align:center;">
-  <a href="[https://www.codedex.io/@SmyTprlk]"> 
-    <img src="https://github.com/davidduran123/davidduran123/assets/76709805/785b34dc-c099-4dfa-a885-64e746f34a97" alt="codedex-bot-logo" width="50">
-  </a>
   <a href="https://www.linkedin.com/in/simay-toparlak-540795139/"> 
     <img src="https://github.com/davidduran123/davidduran123/assets/76709805/78db2d58-410b-41e1-8899-8a12aae504a9" alt="linkedin logo" width="50">
   </a>
