@@ -5,9 +5,10 @@
 I'm a biomedical engineering student. I've learned the basics of Python, and will soon embark on the rite of passage through Data Structures and Algorithms.
 
 
-# My Codédex Pets
-```
-![@SmyTprlk #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SmyTprlk) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![evolved-neutral-dinosaur](https://github.com/davidduran123/davidduran123/assets/76709805/07ef4d74-c4b8-4d0c-986f-055660500d67) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![muted-evolved-neutral-duck](https://github.com/davidduran123/davidduran123/assets/76709805/f4ebdf83-4d88-4484-9984-69b86d78b300)
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@SmyTprlk/30-nites-of-code)  
+  ![@SmyTprlk #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SmyTprlk)
 
 # Learning Checklist
 - [ ] Python
