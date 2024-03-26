@@ -1,5 +1,5 @@
 ![logo](https://github.com/HadeedH3ro/HadeedH3ro/blob/main/animated.gif)
-<h1 align="center"> <img src="https://www.codedex.io/_next/image?url=%2Fimages%2Frobot.gif&w=128&q=75" width="70px"/>  Hi 👋, I'm Simay<img src="[https://media.tenor.com/8jAJQds1Kx0AAAAi/pikachu.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXczcndvcHhzdDFzeTAxdWRhNGlmbW4wOTRxdTloNmFnYWMxYThqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kj1ysPIsgIDxh4tafA/giphy.gif)" width="70px" /></h1>
+<h1 align="center"> <img src="https://www.codedex.io/_next/image?url=%2Fimages%2Frobot.gif&w=128&q=75" width="70px"/>  Hi 👋, I'm Simay<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXczcndvcHhzdDFzeTAxdWRhNGlmbW4wOTRxdTloNmFnYWMxYThqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kj1ysPIsgIDxh4tafA/giphy.gif)" width="70px" /></h1>
 
 
 # About me
