@@ -1,6 +1,5 @@
 ![logo](https://github.com/HadeedH3ro/HadeedH3ro/blob/main/animated.gif)
-<div class="tenor-gif-embed" data-postid="23093018" data-share-method="host" data-aspect-ratio="2.44275" data-width="100%"><a href="https://tenor.com/view/junimo-stardew-valley-stardew-gif-23093018">Junimo Stardew Valley Sticker</a>from <a href="https://tenor.com/search/junimo-stickers">Junimo Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="70px"/>  Hi 👋, I'm Simay <div class="tenor-gif-embed" data-postid="23093018" data-share-method="host" data-aspect-ratio="2.44275" data-width="100%"><a href="https://tenor.com/view/junimo-stardew-valley-stardew-gif-23093018">Junimo Stardew Valley Sticker</a>from <a href="https://tenor.com/search/junimo-stickers">Junimo Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<h1 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG0zZ2x2N2U0cnhndGRqZ2E0a2phYmwybmNnZThwcGFmOWtvbGRoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XI1uAcmLAwhYCSBCLW/giphy.gif" width="70px"/>  Hi 👋, I'm Simay<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJ4MHdnemRuNXRleXM3bHpldGk3MmZjemE0bGN2bTh2ejNrbzc2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7LAN7BGYWQ0tzPCrg0/giphy.gif" width="70px" /></h1>
 
 # About me
 I'm a biomedical engineering student. I've learned the basics of Python, and will soon embark on the rite of passage through Data Structures and Algorithms.
