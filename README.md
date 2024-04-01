@@ -4,9 +4,6 @@
 # About me
 I'm a biomedical engineering student. I've learned the basics of Python, and will soon embark on the rite of passage through Data Structures and Algorithms.
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@SmyTprlk/30-nites-of-code)  
-  ![@SmyTprlk #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SmyTprlk)
 
 # Learning Checklist
 - [ ] Python
