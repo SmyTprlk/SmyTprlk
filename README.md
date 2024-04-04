@@ -12,7 +12,7 @@ I'm a biomedical engineering student. I've learned the basics of Python, and wil
 
 # Let's Connect!
 <div style="text-align:center;">
-  <a"https://www.linkedin.com/in/simay-toparlak-540795139/"> 
+https://www.linkedin.com/in/simay-toparlak-540795139/
    
   </a>
 </div>
