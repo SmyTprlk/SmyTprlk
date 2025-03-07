@@ -7,7 +7,7 @@ I'm a biomedical engineering student. I've learned the basics of Python, and wil
 
 # Learning Checklist
 - [ ] Python
-- [ ] Data Structures and Algorithms
+- [ ] Matlab
 - [ ] R
 
 # Let's Connect!
